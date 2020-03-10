@@ -1,9 +1,9 @@
 # counter-lcd-push-btn
 <h3>Hardware</h3>
-- Arduino Uno
-- Lcd 16x2 i2c
-- switch button
-- Jumper wire
+- Arduino Uno <br>
+- Lcd 16x2 i2c <br>
+- switch button <br>
+- Jumper wire <br>
 
 <h3>Schematic diagram</h3>
 <br>
